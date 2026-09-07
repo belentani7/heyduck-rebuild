@@ -1,0 +1,10 @@
+{
+  "name": "heyduck-rebuild",
+  "version": "2.0.0",
+  "type": "commonjs",
+  "description": "DUCK - Musical Producer Website",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
